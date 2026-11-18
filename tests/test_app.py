@@ -7,6 +7,5 @@ class TestGreeting(unittest.TestCase):
             greet(),
             "Hello! Welcome to Software Engineering."
         )
-
 if __name__ == "__main__":
-    unittest.main()
+unittest.main()
